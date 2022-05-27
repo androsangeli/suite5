@@ -1,0 +1,36 @@
+{
+  "locale": {
+  	"language": "Ελληνικά",
+  	"code": "el"
+  },
+  "language": "Language",
+  "message": "hello i18n !!",
+  "formattingTitle": "How to format your texts",
+  "name": "What is your Name?",
+  "hi": "Hi {name}, today is a good day",
+  "hello": "Hello i18n in SFC!",
+  "nav": {
+    "home": "Home",
+    "login": "Login",
+    "about": "About"
+  },
+  "home": {
+    "search": "Search User Posts",
+    "userid": "User Id",
+    "enter": "Login",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "register": "Register"
+  },
+  "navigation": {
+    "default": "Home",
+    "login": "Login",
+    "home": "Home",
+    "profile": "Profile",
+    "logout": "Log Out",
+    "settings": "Settings",
+    "dashboard":"Dashboard",
+  },
+
+}

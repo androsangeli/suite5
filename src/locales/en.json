@@ -1,0 +1,67 @@
+{
+  "locale": {
+  	"language": "English",
+  	"code": "en"
+  },
+  "language": "Language",
+  "message": "hello i18n !!",
+  "formattingTitle": "How to format your texts",
+  "name": "What is your Name?",
+  "hi": "Hi {name}, today is a good day",
+  "hello": "Hello i18n in SFC!",
+  "nav": {
+    "home": "Home",
+    "login": "Login",
+    "about": "About"
+  },
+  "home": {
+    "search": "Search User Posts",
+    "userid": "User Id",
+    "email": "Email",
+    "password": "Password",
+    "password_confirmation": "Password Confirmation",
+    "forgotPassword": "Forgot password?",
+    "resetPassword": "Reset password",
+    "rememberMe": "Remember Me",
+    "rememberMeText": "Selecting the Remember Me option you will stay logged in for 30 days but for security reasons you should always manually log out before you leave your computer.",
+    "btnSearch": "Search",
+    "btnAddPost": "Add Post"
+  },
+  "validation": {
+    "rules": "Rules",
+    "required": " Value is required",
+    "email": " Value is not a valid email address",
+    "minLength": "The password length must be greater than or equal to {number} characters",
+    "containsUppercase": "The password must contain one or more uppercase characters",
+    "containsLowercase": "The password must contain one or more lowercase characters",
+    "containsNumber": "The password must contain one or more numeric characters",
+    "containsSpecial": "The password must contain one or more special characters: {specialCharacters}",
+    "containsNotSpecial": "The password must NOT contain any of special characters: {specialNotCharacters}",
+    "containsAllowed": "The password must NOT contain any Non Latin characters",
+    "containsAllowedCoptic": "The password must NOT contain any Non Latin characters Coptic",
+    "containsNotGreek": "The password must NOT contain any Greek characters",
+    "containsNotSequences": "The password must NOT contain any number/letter sequences or repetitions",
+    "captchaExpired": "Captcha expired! Please refresh your page to update Captcha",
+    "captchaFailed": "Captcha failed! Please refresh your page to update Captcha",
+    "invalidUsername": "Please enter a valid username"
+  },
+  "password": {
+    "forgotPassword": "Forgot Password",
+    "forgotPasswordMessageSuccess": "Please check your email for your password reset link!",
+    "forgotPasswordMessageFail": "Account does not exist with this email!"
+  },
+  "account": {
+    "accountActivation": "Activate Account",
+    "enterPasswordText": "Please enter a password for your account",
+    "accountActivationBtn": "Activate"
+  },
+  "navigation": {
+    "default": "Home",
+    "login": "Login",
+    "home": "Home",
+    "profile": "Profile",
+    "logout": "Log Out",
+    "settings": "Settings",
+    "dashboard":"Dashboard",
+  }
+}
